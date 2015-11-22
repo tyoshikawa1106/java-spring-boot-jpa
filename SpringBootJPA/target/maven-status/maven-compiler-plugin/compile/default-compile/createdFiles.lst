@@ -1,2 +1,4 @@
-com/example/domain/Customer.class
 com/example/App.class
+com/example/domain/Customer.class
+com/example/repository/CustomerRepository.class
+com/example/AppConfig.class
